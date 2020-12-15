@@ -17,3 +17,10 @@ Magic happens
 <img src="/Users/garrychen/Documents/c and cpp/cs-app-labs/cs-app-labs/bomb-lab/phase1.jpg" alt="avatar" style="zoom:50%;" />
 
 Phase 1 defused.How about the next one ?
+
+
+
+# Phase 2
+
+the answer: 1 2 4 8 16 32
+
